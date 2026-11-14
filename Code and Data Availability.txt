@@ -1,0 +1,4 @@
+Code and Data Availability
+This repository contains the source code for reproducing the main interface and inference logic of the helmet detection system.
+Public Dataset: This study uses the publicly available SHWD dataset.（https://download.csdn.net/download/weixin_42172972/18551190?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~BlogCommendFromBaidu~Rate-7-18551190-download-16065018.257%5Ev17%5Econtrol&depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~BlogCommendFromBaidu~Rate-7-18551190-download-16065018.257%5Ev17%5Econtrol&spm=1003.2020.3001.6616.11）
+Confidentiality Note: Due to proprietary restrictions and internal project requirements, user authentication modules, database interaction scripts, and certain internal processing logics have been excluded from this public repository. These restricted modules may be obtained from the corresponding author upon reasonable request.
